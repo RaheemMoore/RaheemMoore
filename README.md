@@ -3,7 +3,13 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
-  
+
+<h2>📄 Certifications</h2>
+
+- [CompTIA Security +](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CompTIA Network +](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Splunk Core User](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
