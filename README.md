@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Active Directory Home Lab](https://github.com/RaheemMoore/ActiveDirectoryLab)
 
 <h2>📄 Certifications</h2>
 
