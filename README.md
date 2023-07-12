@@ -1,6 +1,6 @@
-<h1>Hi, I'm Raheem! <br/><a href="https://www.linkedin.com/in/raheemmoore/">Cybersecurity Student</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Raheem! <br/><a href="https://www.linkedin.com/in/raheemmoore/">Cyber Security Student</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
 - [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
